@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: NewLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4618211355333096470
+  m_GuidHigh: 12560803036980358289
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5556501417643376146
+      m_GuidHigh: 18181881926116136358
+    m_SerializedTextureGuid:
+      m_GuidLow: 13741693260390868108
+      m_GuidHigh: 2594845030175338971
+    m_Size: {x: 0.1, y: 0.07859375}
+    m_SpecifySize: 1
+    m_Name: Coldcrystal
+    m_Texture: {fileID: 2800000, guid: b5fa248c4d36beb4dbf1c98ecebd0224, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5733678551740016571
+      m_GuidHigh: 11568439194686972303
+    m_SerializedTextureGuid:
+      m_GuidLow: 18339801897028379156
+      m_GuidHigh: 6412127840140446072
+    m_Size: {x: 0.1, y: 0.12190202}
+    m_SpecifySize: 1
+    m_Name: HOTcrystal
+    m_Texture: {fileID: 2800000, guid: 2b69621410a8fe8478c9f6354c74fc58, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4906726733304729967
+      m_GuidHigh: 11821167313345296769
+    m_SerializedTextureGuid:
+      m_GuidLow: 1280353648682180862
+      m_GuidHigh: 4277071912121213912
+    m_Size: {x: 0.1, y: 0.079375}
+    m_SpecifySize: 1
+    m_Name: cat
+    m_Texture: {fileID: 2800000, guid: 2093a0febadc11c4d823c9403e365b3b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5114771314345260754
+      m_GuidHigh: 10777602020915220379
+    m_SerializedTextureGuid:
+      m_GuidLow: 4824650829536980124
+      m_GuidHigh: 12762122045031116171
+    m_Size: {x: 0.1, y: 0.079375}
+    m_SpecifySize: 1
+    m_Name: dog
+    m_Texture: {fileID: 2800000, guid: 0bd86c9c9a5e42f48bed4222622a1cb1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4810432422120076738
+      m_GuidHigh: 3053346685213784504
+    m_SerializedTextureGuid:
+      m_GuidLow: 7761049918064804985
+      m_GuidHigh: 7568111354510619113
+    m_Size: {x: 0.1, y: 0.079639785}
+    m_SpecifySize: 1
+    m_Name: ThirdFlask
+    m_Texture: {fileID: 2800000, guid: da53c479c9c76bb4e9b134ea2d550769, type: 3}
